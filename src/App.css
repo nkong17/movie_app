@@ -1,0 +1,16 @@
+.App {
+  padding: 50px;
+  display: flex;
+  justify-content: space_around;
+  flex-wrap: wrap;
+  font-size: 14px;
+}
+
+.App--loading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    font-size: 30px;
+    font-weight: 600;
+}
